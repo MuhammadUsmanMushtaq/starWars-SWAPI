@@ -1,6 +1,8 @@
+## STAR WARS SWAPI APP
+
 This project is about searching star wars characters using SWAPI API.
 
-## DEMO LINK
+### DEMO LINK
 
 https://starwars-swapi-usman.netlify.app/
 
