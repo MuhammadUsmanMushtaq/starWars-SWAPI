@@ -11,8 +11,6 @@
   height: 100px;
 }
 
-/* new css for movie component */
-
 * {
   box-sizing: border-box;
 }
@@ -23,6 +21,7 @@
   flex-wrap: wrap;
   justify-content: center;
   position: relative;
+  margin: 0 48px;
 }
 
 .star-wars-character {
@@ -142,13 +141,13 @@
 
 .button-left {
   position: fixed;
-  top: 70%;
+  top: 50%;
   left: 32px;
 }
 
 .button-right {
   position: fixed;
-  top: 70%;
+  top: 50%;
   right: 32px;
 }
 
@@ -163,11 +162,11 @@
     height: 36px;
   }
   .button-left {
-    left: 28px;
+    left: 3px;
   }
 
   .button-right {
-    right: 28px;
+    right: 3px;
   }
 
   .search {
