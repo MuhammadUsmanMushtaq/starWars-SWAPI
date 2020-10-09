@@ -159,8 +159,15 @@
 @media screen and (max-width: 600px) {
   .button-right img,
   .button-left img {
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
+  }
+  .button-left {
+    left: 28px;
+  }
+
+  .button-right {
+    right: 28px;
   }
 
   .search {
